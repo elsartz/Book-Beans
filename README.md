@@ -42,6 +42,6 @@
    ![MyBookClub](https://github.com/haleytelega/Book-Beans/blob/main/img/mybookclub.jpeg)
 
   # Questions
-  If you have any questions, please contact me at [email](mailto:).
-  My GitHub username is haleytelega and ...
-  my GitHub profile is [profile](https://github.com/haleytelega)
+  If you have any questions, please contact me at [email](mailto:elsartz@gmail.com).
+  My GitHub username is _elsartz_ and ...
+  my GitHub profile is [profile](https://github.com/elsartz)
