@@ -29,7 +29,7 @@
     Social communication app
 
   # Contributing
-    Haley, Patrick, Shaun, Vardis, Ayva
+   [Haley](https://github.com/haleytelega), [Patrick](https://github.com/MorningSol), [Shaun](https://github.com/ShaunSully88), [Vardis](https://github.com/elsartz), [Ayva](https://github.com/ayvavalenti)
   
   # License
   Follow the link for more info about the license [isc](https://choosealicense.com/licenses/isc)
